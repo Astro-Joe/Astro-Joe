@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**My name is Joseph Ilemobayo. Hmmm....** 
+**My name is Joseph Ilemobayo.** 
 <!--
 Here are some ideas to get you started:
 
