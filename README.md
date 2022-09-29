@@ -14,4 +14,4 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Astro-Joe's github activity graph](https://activity-graph.herokuapp.com/graph?username=Astro-Joe)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Astro-Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Astro-Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astro-Joe&show_icons=true&theme=radical)
