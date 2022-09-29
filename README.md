@@ -12,5 +12,6 @@
 Astro-Joe/Astro-Joe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Astro-Joe)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astro-Joe)](https://github.com/anuraghazra/github-readme-stats)
+[![Astro-Joe's github activity graph](https://activity-graph.herokuapp.com/graph?username=Astro-Joe)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Astro-Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astro-Joe)](https://github.com/anuraghazra/github-readme-stats)
+![Astro-Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astro-Joe&count_private=true)
