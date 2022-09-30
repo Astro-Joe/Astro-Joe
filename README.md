@@ -2,7 +2,7 @@
 
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/Astro-Joe/Astro-Joe/master/resources/banner.png">
+
 
 <p align="center"> 
   Visitor count<br>
