@@ -20,12 +20,7 @@
 Astro-Joe/Astro-Joe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
 ![Github Activity Graph](https://warm-wave-53486.herokuapp.com/graph?username=Astro-Joe&theme=react-dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astro-Joe&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astro-Joe&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astro-Joe&repo=Python-Learning-Process&theme=radical" />
@@ -33,3 +28,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astro-Joe&repo=Python-projects&theme=radical" />
 </a>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astro-Joe&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astro-Joe&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
