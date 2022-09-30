@@ -3,7 +3,7 @@
 # Hey there :wave:
 
 
-<img align="right" src="https://github.com/Astrojoe/Astro-Joe/blob/master/animation_500_kxa883sd.gif">
+<img align="right" src="https://github.com/Astrojoe/Astro-Joe/blob/master/animation_500_kxa883sd.gif"/>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Astro-Joe/count.svg" />
