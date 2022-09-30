@@ -9,10 +9,10 @@
   <img src="https://profile-counter.glitch.me/Astro-Joe/count.svg" />
 </p>
 
-- 👋 Hi, I’m Ilemobayo Joseph
-- 👀 I’m interested in Astrophysics and Software develpment
-- 🌱 I’m currently learning python
-- 💞️ I’m not really good at python tho. But I'm looking forward to as many collaborations as possible in the nearest future
+- 👋 Hi, I’m Ilemobayo Joseph.
+- 👀 I’m interested in Astrophysics and Software develpment.
+- 🌱 I’m currently learning python.
+- 💞️ I’m not really good at python tho. But I'm looking forward to as many collaborations as possible in the nearest future.
 - 📫 How to reach me: Facebook: [Itz Astrojoe](https://web.facebook.com/tolu.ilemobayo.5)
                       Instagram: [code_blooded_astrophysicist](https://www.instagram.com/code_blooded_astrophysicist/)
                       Twitter: [Joseph Ilemobayo](https://twitter.com/JIlemobayo)
