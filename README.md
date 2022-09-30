@@ -22,4 +22,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![Github Activity Graph](https://warm-wave-53486.herokuapp.com/graph?username=Astro-Joe&theme=dracula)
+![Github Activity Graph](https://warm-wave-53486.herokuapp.com/graph?username=Astro-Joe&theme=react-dark)
