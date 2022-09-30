@@ -2,12 +2,14 @@
 
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/Astro-Joe/Astro-Joe/master/resources/hello.jpg">
+<img src="https://raw.githubusercontent.com/Astro-Joe/Astro-Joe/master/resources/download.jfif">
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/Astro-Joe/count.svg" />
 </p>
+
+
 - 👋 Hi, I’m Ilemobayo Joseph
 - 👀 I’m interested in Astrophysics and Software develpment
 - 🌱 I’m currently learning python
