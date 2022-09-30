@@ -24,3 +24,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Github Activity Graph](https://warm-wave-53486.herokuapp.com/graph?username=Astro-Joe&theme=react-dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astro-Joe&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Astro-Joe&repo=Python-Learning-Process&heme=radical)](https://github.com/anuraghazra/github-readme-stats)
