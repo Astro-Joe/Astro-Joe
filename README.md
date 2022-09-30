@@ -3,12 +3,11 @@
 # Hey there :wave:
 
 
-
+<img align="right" src="https://github.com/Astrojoe/Astro-Joe/blob/main/animation_500_kxa883sd.gif">
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Astro-Joe/count.svg" />
 </p>
-<p><img align="right" src="https://github.com/Astrojoe/Astro-Joe/blob/main/animation_500_kxa883sd.gif" alt="astro-joe" /></p>
 
 - 👋 Hi, I’m Ilemobayo Joseph
 - 👀 I’m interested in Astrophysics and Software develpment
