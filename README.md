@@ -21,7 +21,7 @@ Astro-Joe/Astro-Joe is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Astro-Joe&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Github Activity Graph](<url from step 5>/graph?username=Astro-Joe)
+![Github Activity Graph]([<url from step 5>](https://github.com/settings/tokens/new?description=GitHub%20Readme%20Activity%20Graph)/graph?username=Astro-Joe)
 
 ![Astro-Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astro-Joe&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Astro-Joe&theme=radical&hide_border=true&border_radius=11&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
