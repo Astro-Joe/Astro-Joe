@@ -1,6 +1,13 @@
 
 
+# Hey there :wave:
 
+<img src="https://raw.githubusercontent.com/Astro-Joe/Astro-Joe/master/resources/hello.jpg">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 - 👋 Hi, I’m Ilemobayo Joseph
 - 👀 I’m interested in Astrophysics and Software develpment
 - 🌱 I’m currently learning python
@@ -17,4 +24,5 @@ You can click the Preview link to take a look at your changes.
 ![Astro-Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astro-Joe&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Astro-Joe&theme=radical&hide_border=true&border_radius=11&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astro-Joe)](https://github.com/anuraghazra/github-readme-stats)
+
 
