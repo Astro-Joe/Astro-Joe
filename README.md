@@ -11,7 +11,7 @@
 
 - 👋 Hi, I’m Ilemobayo Joseph.
 - 👀 I’m interested in Astrophysics and Data Science.
-- 🌱 Python GUI dev.
+- 🌱 Upcoming Data Scientist.
 - 💞️ I'm looking forward to as many collaborations as possible in the nearest future.
 - 📫 Second year Physics with Electronics major student.....Hit me up on my socials🤠🤪😉.
 <!---
