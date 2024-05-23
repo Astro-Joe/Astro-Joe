@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astro-Joe&repo=Python-Learning-Process&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astro-Joe&repo=Python-projects&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astro-Joe&repo=Data_Science_Learning_Process&theme=radical" />
 </a>
 
 
