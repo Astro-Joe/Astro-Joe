@@ -13,7 +13,7 @@
 - 👀 I’m interested in Astrophysics and Data Science.
 - 🌱 Upcoming Data Scientist.
 - 💞️ I'm looking forward to as many collaborations as possible in the nearest future.
-- 📫 Second year Physics with Electronics major student.....Hit me up on my socials🤠🤪😉.
+- 📫 Third year Physics with Electronics major student.....Hit me up on my socials🤠🤪😉.
 <!---
 Astro-Joe/Astro-Joe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
