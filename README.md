@@ -2,7 +2,7 @@
   <tr>
     <td align="left" valign="top">
       <h3><b>
-✨🖤  ω𝔼𝐥ⓒ𝕠𝕄𝓔 𝕥𝔬 𝓶ㄚ ⓟⓐᎶ€  🖤✨</b></h3>
+✨🖤  ω𝔼𝐥ⓒ𝕠𝕄𝓔 𝕥𝔬 𝓶ㄚ ⓟⓐᎶ€</b></h3>
       <ul>
         <li><b>👋 𝐇𝐢, 𝐈’𝐦 𝐈𝐥𝐞𝐦𝐨𝐛𝐚𝐲𝐨 𝐉𝐨𝐬𝐞𝐩𝐡 𝐓𝐨𝐥𝐮𝐥𝐨𝐩𝐞.</b></li>
         <li><i>👀 𝑰’𝒎 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒆𝒅 𝒊𝒏 𝑨𝒔𝒕𝒓𝒐𝒑𝒉𝒚𝒔𝒊𝒄𝒔 𝒂𝒏𝒅 𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒄𝒆.</i></li>
@@ -27,13 +27,11 @@
   />
 </a>
 
----
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api?username=Astro-Joe&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Astro-Joe&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Astro-Joe&langs_count=8&card_width=400&theme=radical"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Astro-Joe&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
 ---
