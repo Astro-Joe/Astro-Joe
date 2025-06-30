@@ -27,11 +27,13 @@
   />
 </a>
 
+---
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Astro-Joe&theme=radical" />
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Astro-Joe&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Astro-Joe&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Astro-Joe&langs_count=8&card_width=320&theme=radical" />
 </a>
 
 ---
@@ -43,6 +45,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astro-Joe&repo=Python-Learning-Process&theme=radical" />
 </a>
 
+---
 
 - Languages/Tools
   
