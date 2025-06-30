@@ -7,10 +7,10 @@
         <li><b>👋 𝐇𝐢, 𝐈’𝐦 𝐈𝐥𝐞𝐦𝐨𝐛𝐚𝐲𝐨 𝐉𝐨𝐬𝐞𝐩𝐡 𝐓𝐨𝐥𝐮𝐥𝐨𝐩𝐞.</b></li>
         <li><i>👀 𝑰’𝒎 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒆𝒅 𝒊𝒏 𝑨𝒔𝒕𝒓𝒐𝒑𝒉𝒚𝒔𝒊𝒄𝒔 𝒂𝒏𝒅 𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒄𝒆.</i></li>
         <li>🌱 <b>Upcoming Data Scientist.</b></li>
-        <li>💞️ <i>I'm looking forward to as many collaborations as possible in the nearest future.</i></li>
+        <li>💞️ <i>I'm looking forward to as many collaborations as possible.</i></li>
         <li>📫 <b>Third year Physics with Electronics major student...</b></li>
       </ul>
-      <strong><span>✨ 𝑯𝒊𝒕 𝒎𝒆 𝒖𝒑 𝒐𝒏 𝒎𝒚 𝒔𝒐𝒄𝒊𝒂𝒍𝒔!😉</span></strong>
+      <span>✨ 𝑯𝒊𝒕 𝒎𝒆 𝒖𝒑 𝒐𝒏 𝒎𝒚 𝒔𝒐𝒄𝒊𝒂𝒍𝒔!😉</span>
     </td>
     <td align="right" valign="top">
       <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="GIF" width="470">
