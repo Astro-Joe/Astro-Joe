@@ -13,7 +13,7 @@
       <strong><span>✨ 𝑯𝒊𝒕 𝒎𝒆 𝒖𝒑 𝒐𝒏 𝒎𝒚 𝒔𝒐𝒄𝒊𝒂𝒍𝒔! 🤠🤪😉 ✨</span></strong>
     </td>
     <td align="right" valign="top">
-      <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="GIF" width="550">
+      <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="GIF" width="500">
     </td>
   </tr>
 </table>
@@ -22,11 +22,12 @@
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Astro-Joe&bg_color=121023&color=43d6c7&line=ff4291&point=f9d834&area=true&hide_border=true"
     alt="GitHub Activity Graph by Ashutosh"
-    width="870"
-    height="350"
+    width="800"
+    height="300"
   />
 </a>
 
+---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=220 align="center" src="https://github-readme-stats.vercel.app/api?username=Astro-Joe&theme=radical" />
