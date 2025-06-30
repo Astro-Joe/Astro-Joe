@@ -10,7 +10,7 @@
         <li>💞️ <i>I'm looking forward to as many collaborations as possible in the nearest future.</i></li>
         <li>📫 <b>Third year Physics with Electronics major student...</b></li>
       </ul>
-      <strong><span>✨ 𝑯𝒊𝒕 𝒎𝒆 𝒖𝒑 𝒐𝒏 𝒎𝒚 𝒔𝒐𝒄𝒊𝒂𝒍𝒔! 🤠🤪😉 ✨</span></strong>
+      <strong><span>✨ 𝑯𝒊𝒕 𝒎𝒆 𝒖𝒑 𝒐𝒏 𝒎𝒚 𝒔𝒐𝒄𝒊𝒂𝒍𝒔!😉</span></strong>
     </td>
     <td align="right" valign="top">
       <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="GIF" width="500">
