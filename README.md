@@ -18,39 +18,31 @@
   </tr>
 </table>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Astro-Joe/count.svg" />
-</p>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Astro-Joe&bg_color=121023&color=43d6c7&line=ff4291&point=f9d834&area=true&hide_border=true"
+    alt="GitHub Activity Graph by Ashutosh"
+    width="870"
+    height="350"
+  />
+</a>
 
-<p align="center">
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Astro-Joe&bg_color=121023&color=43d6c7&line=ff4291&point=f9d834&area=true&hide_border=true"
-      alt="GitHub Activity Graph by Ashutosh"
-      width="870"
-      height="350"
-    />
-  </a>
-  <br/><br/>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=220 align="center" src="https://github-readme-stats.vercel.app/api?username=Astro-Joe&theme=radical" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Astro-Joe&langs_count=8&card_width=400&theme=radical"/>
-  </a>
-  <br/><br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api?username=Astro-Joe&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Astro-Joe&langs_count=8&card_width=400&theme=radical"/>
+</a>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astro-Joe&repo=Data_Science_Learning_Process&theme=radical" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astro-Joe&repo=Python-Learning-Process&theme=radical" />
-  </a>
+---
 
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astro-Joe&repo=Data_Science_Learning_Process&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astro-Joe&repo=Python-Learning-Process&theme=radical" />
+</a>
 
 
 - Languages/Tools
