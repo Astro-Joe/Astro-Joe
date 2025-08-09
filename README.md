@@ -1,26 +1,29 @@
-<table>
+<table width="800" align="center" style="margin: auto;">
   <tr>
-    <td align="left" valign="top">
-      <h3><b>
-      ✨🖤  ω𝔼𝐥ⓒ𝕠𝕄𝓔 𝕥𝔬 𝓶ㄚ ⓟⓐᎶ€</b></h3>
-      <ul>
-        <li><b>👋 𝐇𝐢, 𝐈’𝐦 𝐈𝐥𝐞𝐦𝐨𝐛𝐚𝐲𝐨 𝐉𝐨𝐬𝐞𝐩𝐡 𝐓𝐨𝐥𝐮𝐥𝐨𝐩𝐞.</b></li>
-        <li><i>👀 𝑰’𝒎 𝒊𝒏𝒕𝒆𝒓𝒆𝒔𝒕𝒆𝒅 𝒊𝒏 𝑨𝒔𝒕𝒓𝒐𝒑𝒉𝒚𝒔𝒊𝒄𝒔 𝒂𝒏𝒅 𝑫𝒂𝒕𝒂 𝑺𝒄𝒊𝒆𝒏𝒄𝒆.</i></li>
+    <td align="center" style="padding: 0;">
+      <img src="https://github.com/Astro-Joe/Astro-Joe/blob/main/resources/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39302f37302f33322f39303730333234636466633037633638643630656564306333396537373537332e676966.gif?raw=true" alt="GIF Banner" style="width: 100%; max-width: 800px;">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="top" style="font-family: 'Comic Sans MS', cursive; width: 800px; padding-top: 20px;">
+      <h3><b>✨🖤  WELCOME TO MY PAGE</b></h3>
+      <ul style="list-style: none; padding-left: 0; text-align: left; display: inline-block; font-family: 'Comic Sans MS', cursive; max-width: 800px;">
+        <li><b>👋 Hi, I'm Ilemobayo Joseph Tolulope.</b></li>
+        <li><i>👀 I'm interested in Astrophysics and Data Science.</i></li>
         <li>🌱 <b>Upcoming Data Scientist.</b></li>
         <li>💞️ <i>I'm looking forward to as many collaborations as possible.</i></li>
-        <li>📫 <b>Third year Physics with Electronics major student...</b></li>
+        <li>📫 <b>Final year Physics with Electronics major student...</b></li>
       </ul>
-      <span>✨ 𝑯𝒊𝒕 𝒎𝒆 𝒖𝒑 𝒐𝒏 𝒎𝒚 𝒔𝒐𝒄𝒊𝒂𝒍𝒔!😉</span>
-    </td>
-    <td align="right" valign="top">
-      <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="GIF" width="470">
+      <br>
+      <span>✨ Hit me up on my socials! 😉</span>
     </td>
   </tr>
 </table>
 
+
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Astro-Joe/count.svg" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors" alt="visitor badge" />
 </p>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
