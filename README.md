@@ -50,7 +50,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astro-Joe&repo=Data_Science_Learning_Process&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astro-Joe&repo=Python-Learning-Process&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astro-Joe&repo=Arduino_Learning_Process&theme=radical" />
 </a>
 
 ---
