@@ -26,32 +26,51 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Astro-Joe.visitor-badge&left_text=My%20Page%20Visitors" alt="visitor badge" />
 </p>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Astro-Joe&bg_color=121023&color=43d6c7&line=ff4291&point=f9d834&area=true&hide_border=true"
-    alt="GitHub Activity Graph by Ashutosh"
-    width="800"
-    height="300"
-  />
-</a>
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Astro-Joe&bg_color=121023&color=43d6c7&line=ff4291&point=f9d834&area=true&hide_border=true"
+      alt="GitHub Activity Graph by Ashutosh"
+      width="800"
+      height="300"
+    />
+  </a>
+</div>
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Astro-Joe&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Astro-Joe&langs_count=8&card_width=320&theme=radical" />
-</a>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=Astro-Joe&theme=radical" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astro-Joe&layout=donut&theme=radical" alt="Top Languages" />
+  </a>
+</div>
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astro-Joe&repo=Data_Science_Learning_Process&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astro-Joe&repo=Arduino_Learning_Process&theme=radical" />
-</a>
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Astro-Joe&theme=radical)](https://git.io/streak-stats)
+
+</div>
+
+
+---
+
+<div align="center">
+
+  <a href="https://github.com/Astro-Joe/Data_Science_Learning_Process">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astro-Joe&repo=Data_Science_Learning_Process&theme=radical" />
+  </a>
+  <a href="https://github.com/Astro-Joe/Arduino_Learning_Process">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astro-Joe&repo=Arduino_Learning_Process&theme=radical" />
+  </a>
+
+</div>
+
 
 ---
 
