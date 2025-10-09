@@ -21,11 +21,6 @@
   </tr>
 </table>
 
-
-<p align="center"> 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Astro-Joe.visitor-badge&left_text=My%20Page%20Visitors" alt="visitor badge" />
-</p>
-
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img 
