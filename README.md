@@ -48,15 +48,6 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Astro-Joe&theme=radical)](https://git.io/streak-stats)
-
-</div>
-
-
----
-
-<div align="center">
-
   <a href="https://github.com/Astro-Joe/Data_Science_Learning_Process">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astro-Joe&repo=Data_Science_Learning_Process&theme=radical" />
   </a>
