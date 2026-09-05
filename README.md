@@ -21,29 +21,6 @@
   </tr>
 </table>
 
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Astro-Joe&bg_color=121023&color=43d6c7&line=ff4291&point=f9d834&area=true&hide_border=true"
-      alt="GitHub Activity Graph by Ashutosh"
-      width="800"
-      height="300"
-    />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=Astro-Joe&theme=radical" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astro-Joe&layout=donut&theme=radical" alt="Top Languages" />
-  </a>
-</div>
-
 ---
 
 - Languages/Tools
@@ -53,6 +30,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+---
 
 - IDEs/Packages
   
