@@ -10,7 +10,7 @@
       <h3><b>✨🖤  WELCOME TO MY PAGE</b></h3>
       <ul style="list-style: none; padding-left: 0; text-align: left; display: inline-block; font-family: 'Comic Sans MS', cursive; max-width: 800px;">
         <li><b>👋 Hi, I'm Ilemobayo Joseph Tolulope.</b></li>
-        <li><i>👀 I'm interested in applications of Machine Learning in astronomy.</i></li>
+        <li><i>👀 I'm interested in Machine Learning applications in astronomy.</i></li>
         <li>🌱 <b> Data Scientist.</b></li>
         <li>💞️ <i> I'm looking forward to as many collaborations as possible.</i></li>
         <li>📫 <b> Physics with Electronics Graduand...</b></li>
