@@ -11,9 +11,9 @@
       <ul style="list-style: none; padding-left: 0; text-align: left; display: inline-block; font-family: 'Comic Sans MS', cursive; max-width: 800px;">
         <li><b>👋 Hi, I'm Ilemobayo Joseph Tolulope.</b></li>
         <li><i>👀 I'm interested in Astrophysics and Data Science.</i></li>
-        <li>🌱 <b>Upcoming Data Scientist.</b></li>
-        <li>💞️ <i>I'm looking forward to as many collaborations as possible.</i></li>
-        <li>📫 <b>Final year Physics with Electronics major student...</b></li>
+        <li>🌱 <b> Data Scientist.</b></li>
+        <li>💞️ <i> I'm looking forward to as many collaborations as possible.</i></li>
+        <li>📫 <b> Graduand...</b></li>
       </ul>
       <br>
       <span>✨ Hit me up on my socials! 😉</span>
@@ -46,20 +46,6 @@
 
 ---
 
-<div align="center">
-
-  <a href="https://github.com/Astro-Joe/Data_Science_Learning_Process">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astro-Joe&repo=Data_Science_Learning_Process&theme=radical" />
-  </a>
-  <a href="https://github.com/Astro-Joe/Arduino_Learning_Process">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astro-Joe&repo=Arduino_Learning_Process&theme=radical" />
-  </a>
-
-</div>
-
-
----
-
 - Languages/Tools
   
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
@@ -75,9 +61,3 @@
 [![Anaconda Badge](https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white)](https://www.anaconda.com/)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
----
-
-<img src="https://camo.githubusercontent.com/95ba85a45e80fc7ac6f84a1910494b774d3ec416bcd135db38dbc9e860681365/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" alt="GIF" width="100">
-
- 
